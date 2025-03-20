@@ -1,0 +1,36 @@
+SOFTWARE DEVELOPMENT AGREEMENT
+
+Acme Software Inc.
+123 Tech Lane
+Silicon Valley, CA 94088
+Phone: (555) 123-4567
+Email: contracts@acmesoftware.com
+
+Date: June 1, 2023
+
+Client: XYZ Corporation
+Address: 456 Business Park
+         New York, NY 10001
+Contact: Jane Smith, CTO
+
+Project Description:
+Development of a custom inventory management system for XYZ Corporation's warehouse operations. The system will include barcode scanning, real-time inventory tracking, and integration with existing ERP systems.
+
+Project Timeline:
+Start Date: July 1, 2023
+End Date: December 31, 2023
+
+Payment Details:
+Total Project Cost: $75,000
+Payment Schedule: 
+- 30% upon contract signing ($22,500)
+- 30% at midpoint milestone completion ($22,500)
+- 40% upon project completion and acceptance ($30,000)
+
+Payment Terms: Net 30 days from invoice date.
+
+The parties agree to the terms and conditions attached to this agreement.
+
+___________________________          ___________________________
+John Doe, CEO                        Jane Smith, CTO
+Acme Software Inc.                   XYZ Corporation 

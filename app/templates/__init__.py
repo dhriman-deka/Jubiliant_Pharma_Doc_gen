@@ -1,0 +1,1 @@
+# Make templates directory a proper Python package 
